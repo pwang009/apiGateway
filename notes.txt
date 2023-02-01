@@ -3,3 +3,5 @@ partition key: id
 address
 color
 price
+
+Reference: https://awstip.com/ci-cd-pipeline-to-deploy-nodejs-code-to-aws-lambda-functions-on-aws-60c21719fb03
