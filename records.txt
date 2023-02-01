@@ -1,0 +1,252 @@
+[
+  {
+    "id": "de7a9555-ac2e-fb2e-f1ef-d69900ae59ca",
+    "price": 590481,
+    "color": "Midnight Gray"
+  },
+  {
+    "id": "029eb284-b2f5-8f98-14db-c64bba598fd8",
+    "price": 444727,
+    "color": "Smokey Periwinkle"
+  },
+  {
+    "id": "94d359d7-94e7-3862-f689-f696c54047c8",
+    "price": 866703,
+    "color": "Salt Gray"
+  },
+  {
+    "id": "6dee498f-d25c-6612-c0ba-069340284fef",
+    "price": 454699,
+    "color": "Baked Carmel"
+  },
+  {
+    "id": "07b79691-fda2-b1f3-760d-56a1a6bc4ea1",
+    "price": 680416,
+    "color": "Salt Gray"
+  },
+  {
+    "id": "7514734a-9e74-9eb2-150b-eca214a88c6e",
+    "price": 370586,
+    "color": "Evening Twilight"
+  },
+  {
+    "id": "a109f620-458f-7523-6174-a26a994af326",
+    "price": 998716,
+    "color": "Nautical Dusk"
+  },
+  {
+    "id": "211ac048-63fa-dd7c-3d5b-576fc76501ee",
+    "price": 595760,
+    "color": "Frozen Lake"
+  },
+  {
+    "id": "7649caa0-c8d1-304e-5a59-061bf34b5466",
+    "price": 959842,
+    "color": "Candied Orange"
+  },
+  {
+    "id": "37b30d60-da91-89d7-1bf4-6421b68c2465",
+    "price": 950637,
+    "color": "Candied Orange"
+  },
+  {
+    "id": "716e2438-27dd-12b6-4116-2eccbf345b01",
+    "price": 988119,
+    "color": "River Rocks"
+  },
+  {
+    "id": "0e205a8d-d385-b5e0-d592-7dbb9d72dd52",
+    "price": 560153,
+    "color": "Navy Blue"
+  },
+  {
+    "id": "1b5f56e4-68c0-3fa6-0c66-3164130e82ac",
+    "price": 630209,
+    "color": "Sky Blue"
+  },
+  {
+    "id": "4c1bea55-007f-3681-84a2-63bf3ba57201",
+    "price": 601288,
+    "color": "Evening Twilight"
+  },
+  {
+    "id": "2dfcf4cd-7e92-bfe4-a8c1-432a24b7aa05",
+    "price": 880524,
+    "color": "Cloudy Day"
+  },
+  {
+    "id": "74974c84-93b7-8b28-30e0-34b9eabca3de",
+    "price": 882693,
+    "color": "Dusty Amethyst"
+  },
+  {
+    "id": "c8e64de6-0719-0610-4f41-e2e81a9b3c5e",
+    "price": 475840,
+    "color": "Cloudy Day"
+  },
+  {
+    "id": "34eeb0b3-ef2f-a6bb-34dc-ca0207f8ca7a",
+    "price": 977170,
+    "color": "Smokey Periwinkle"
+  },
+  {
+    "id": "24ad02d6-3cb6-9e2c-c98a-e2f4b98be012",
+    "price": 649414,
+    "color": "Frozen Lake"
+  },
+  {
+    "id": "365f0491-aeb6-81ec-cb18-ae70dddbea19",
+    "price": 935322,
+    "color": "Creamy Coffee"
+  },
+  {
+    "id": "7e67d252-7914-46e2-0791-b7f5ae9bc7a1",
+    "price": 803156,
+    "color": "Vintage Peach"
+  },
+  {
+    "id": "6c2f32a5-c619-202e-d397-da8453e39362",
+    "price": 816439,
+    "color": "Smokey Periwinkle"
+  },
+  {
+    "id": "2dfd3ef0-bc24-8325-82c1-61eec1b1dba4",
+    "price": 671393,
+    "color": "Sunset Yellow"
+  },
+  {
+    "id": "96cebbf2-fbb6-19ce-f7c7-48efdfaeec3b",
+    "price": 988299,
+    "color": "Frozen Lake"
+  },
+  {
+    "id": "eda529de-3186-55ff-62c5-3bf614c924fb",
+    "price": 311647,
+    "color": "Creamy Coffee"
+  },
+  {
+    "id": "ad58bbb6-98fa-295b-1158-f5c9c6438289",
+    "price": 820200,
+    "color": "Baked Carmel"
+  },
+  {
+    "id": "26c7b425-5988-d16d-a93f-844e0aefd23b",
+    "price": 295111,
+    "color": "Burnt Orange"
+  },
+  {
+    "id": "1b97edf0-a07f-f875-1e0d-8c665cff8d4d",
+    "price": 803185,
+    "color": "Frozen Lake"
+  },
+  {
+    "id": "c0f63433-2ae6-ba21-b4a0-4897af628ca2",
+    "price": 380673,
+    "color": "Nautical Dusk"
+  },
+  {
+    "id": "9f3d7fe4-b9ba-3f6e-5c22-3d88d97650c2",
+    "price": 779747,
+    "color": "Coal Black"
+  },
+  {
+    "id": "f763b57d-2818-c629-d6d3-c79a01cf39af",
+    "price": 620593,
+    "color": "Coal Black"
+  },
+  {
+    "id": "9ad53e01-5d78-2ea3-8b23-095dc2c52b95",
+    "price": 479485,
+    "color": "Smokey Periwinkle"
+  },
+  {
+    "id": "57fc90ae-27c4-7b8e-4144-213eefd5a22f",
+    "price": 444554,
+    "color": "Creamy Coffee"
+  },
+  {
+    "id": "944ac9ee-c6be-87fa-4e58-4f84379327f6",
+    "price": 587041,
+    "color": "Midnight Gray"
+  },
+  {
+    "id": "704d5a18-0280-1978-ecef-05f940513eff",
+    "price": 144394,
+    "color": "River Rocks"
+  },
+  {
+    "id": "1e234848-267e-6d55-f863-d121e9f0976f",
+    "price": 593253,
+    "color": "Nautical Dusk"
+  },
+  {
+    "id": "2aadf89c-ae98-6d1a-7615-0e12ea5f5ca8",
+    "price": 382840,
+    "color": "Boring Beige"
+  },
+  {
+    "id": "27f78dc5-5b28-3d79-c544-cce8f5b1d990",
+    "price": 318755,
+    "color": "Smokey Periwinkle"
+  },
+  {
+    "id": "c575ec4e-2902-24a4-4f94-f07985ed6fb6",
+    "price": 136232,
+    "color": "River Rocks"
+  },
+  {
+    "id": "d0383b5a-5729-b04c-73bd-069b8cb05a81",
+    "price": 739314,
+    "color": "Dusty Amethyst"
+  },
+  {
+    "id": "cd0c67ac-585f-ef46-f735-d09b4843ed7a",
+    "price": 872915,
+    "color": "Frozen Lake"
+  },
+  {
+    "id": "c9a260d1-86b4-510d-3a32-616fe58ac3a4",
+    "price": 436751,
+    "color": "Citrus Honey"
+  },
+  {
+    "id": "67b7f209-9984-064e-2835-33669efd718b",
+    "price": 252787,
+    "color": "Cloudy Day"
+  },
+  {
+    "id": "7ba122be-a605-c48e-8f52-8c37b02c0825",
+    "price": 428861,
+    "color": "Amber Dawn"
+  },
+  {
+    "id": "ff9114e2-af71-c361-6df5-7325e7aa2a12",
+    "price": 821861,
+    "color": "Midnight Gray"
+  },
+  {
+    "id": "f54c0347-092f-c286-d673-dc21916b021b",
+    "price": 349182,
+    "color": "Blue Moon"
+  },
+  {
+    "id": "1d2d1770-7663-6feb-eba3-0b57cae1850b",
+    "price": 174677,
+    "color": "Midnight Gray"
+  },
+  {
+    "id": "1cd38990-9d0a-5ec1-eb7a-db163780c0c2",
+    "price": 197986,
+    "color": "Nautical Dusk"
+  },
+  {
+    "id": "b1a7cb94-7b2e-95ee-20fb-b89c9ad3fe3b",
+    "price": 813486,
+    "color": "Burnt Orange"
+  },
+  {
+    "id": "8d31e937-5307-3f6d-bb36-00744598631e",
+    "price": 364140,
+    "color": "Smokey Periwinkle"
+  }
+]

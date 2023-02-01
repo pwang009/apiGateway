@@ -1,0 +1,5 @@
+dynamodb:  properties
+partition key: id
+address
+color
+price
